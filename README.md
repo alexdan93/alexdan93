@@ -6,8 +6,7 @@
 ###### Ok fine...
 
 ---
-<h3> My Tech Stack </h3>
-
+### My Tech Stack:
 #### Basics
 <table>
     <tbody>
@@ -107,26 +106,28 @@
 ---
 #### Also have experience with:
 
-<a target="_blank" href="https://www.docker.com/">
-    <img src="./assets/svg/docker.svg" width="40px" alt="Docker">
-</a>
-<a target="_blank" href="https://nodejs.org/en/">
-    <img src="./assets/svg/nodejs.svg" width="40px" alt="Node JS">
-</a>
-<a target="_blank" href="https://www.php.net/">
-    <img src="./assets/svg/php.svg" width="40px" alt="php">
-</a>
-<a target="_blank" href="https://en.wikipedia.org/wiki/Linux">
-    <img src="./assets/svg/linux.svg" width="40px" alt="Linux">
-</a>
-
----
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexdan93&theme=dark" alt="alexdan93" />
+  <a target="_blank" href="https://www.docker.com/">
+      <img src="./assets/svg/docker.svg" width="40px" alt="Docker">
+  </a>
+  <a target="_blank" href="https://nodejs.org/en/">
+      <img src="./assets/svg/nodejs.svg" width="40px" alt="Node JS">
+  </a>
+  <a target="_blank" href="https://www.php.net/">
+      <img src="./assets/svg/php.svg" width="40px" alt="php">
+  </a>
+  <a target="_blank" href="https://en.wikipedia.org/wiki/Linux">
+      <img src="./assets/svg/linux.svg" width="40px" alt="Linux">
+  </a>
 </p>
 
 ---
-#### About me
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdan93&theme=dark" alt="alexdan93" />
+</p>
+
+---
+### About me:
 <details>
     <summary>Somebody said that code cannot lie 💻</summary>
 
