@@ -80,7 +80,7 @@
     </tbody>
 </table>
 
-#### Build applications in
+#### Build applications with
 <table>
     <tbody>
         <tr>
