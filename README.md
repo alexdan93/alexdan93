@@ -165,10 +165,10 @@ I've started learn web development with no degree and only passionate.
 That was a hard way, but here I am.
 
 - Born & raised in Kazakhstan 🇰🇿 Салам всем
-  - Educated at Medical University 📚
-  - Get a first job as Frontend Developer in 2020
-  - Mentoring junior developers and lead a frontend team in 2021
-  - Get a job in international agency in 2022
+- Educated at Medical University 📚
+- Get a first job as Frontend Developer in 2020
+- Mentoring junior developers and lead a frontend team in 2021
+- Get a job in international agency in 2022
 </p>
 
 - 2023 ? Will see... <br/>
