@@ -1,12 +1,12 @@
-<h1 align="center">Heey, Alex here 👋</h1>
-<h3 align="center"> Just a regular Frontend developer. Nothing to see here.</h3>
+<h1>Heey, Alex here 👋</h1>
+<h3> Just a regular Frontend developer. Nothing to see here.</h3>
 <br/>
-<img alt='GIF' src="./assets/gif/nyan-cat.gif" width="320px" align="center">
+<img alt='GIF' src="./assets/gif/nyan-cat.gif" width="300px" align="center">
 
 ###### Ok fine...
 
 ---
-<h3 align="center"> My Tech Stack </h3>
+<h3> My Tech Stack </h3>
 
 #### Basics
 <table>
@@ -136,8 +136,11 @@ That was a hard way, but here I am.
 - Get a first job as Frontend Developer in 2020
 - Mentoring junior developers and lead a frontend team in 2021
 - Get a job in international agency in 2022
-- 2023 ? Will see...
 </p>
+
+- 2023 ? Will see...
+<br/>
+  <img src="./assets/gif/dwight.gif" width="300px">
 
 ---
 ### Contact me in:
@@ -156,7 +159,7 @@ That was a hard way, but here I am.
 ### That's all, thank you for attention.
 <br>
 
-<img src="./assets/gif/thats-all.gif" width="320px" alt="That's all">
+<img src="./assets/gif/thats-all.gif" width="300px" alt="That's all">
 
 ###### Now move on. People are working here...
 <br/>
