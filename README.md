@@ -1,26 +1,7 @@
----
 <h1 align="center">Heey, Alex here 👋</h1>
 <h3 align="center"> Just a regular Frontend developer. Nothing to see here.</h3>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <img alt='GIF' src="./assets/gif/nyan-cat.gif" width="320px" align="center">
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ###### Ok fine...
 
