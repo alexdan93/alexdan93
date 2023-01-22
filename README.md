@@ -139,7 +139,6 @@ That was a hard way, but here I am.
 </p>
 
 - 2023 ? Will see...
-<br/>
   <img src="./assets/gif/dwight.gif" width="300px">
 
 ---
