@@ -127,15 +127,48 @@
 
 ---
 #### About me
+<details>
+    <summary>Somebody said that code cannot lie 💻</summary>
+
+```ts
+    interface IJobPlace {
+        company: string;
+        position: string;
+    }
+
+    interface IPerson {
+        fullName: string;
+        age: number;
+        bornPlace: string;
+        currentPlace: string;
+        jobplace: IJobPlace;
+        salaryExpectations: number|unknown;
+    }
+    
+    const alexdan93: IPerson = {
+        fullName: 'Alexey Danilchenko',
+        age: Math.floor(new Date().getFullYear() - (1994 - 0.9)),
+        bornPlace: 'Kazakhstan, Pavlodar',
+        currentPlace: 'Russia, Tomsk',
+        jobPlace: {
+            company: 'Your Next Agency',
+            position: 'Frontend developer'
+        },
+        salaryExpectations: world.getMoneyAmount(),
+    }
+```
+
+</details>
+
 <p> 
 I've started learn web development with no degree and only passionate. 
 That was a hard way, but here I am.
 
 - Born & raised in Kazakhstan 🇰🇿 Салам всем
-- Educated at Medical University 📚
-- Get a first job as Frontend Developer in 2020
-- Mentoring junior developers and lead a frontend team in 2021
-- Get a job in international agency in 2022
+  - Educated at Medical University 📚
+  - Get a first job as Frontend Developer in 2020
+  - Mentoring junior developers and lead a frontend team in 2021
+  - Get a job in international agency in 2022
 </p>
 
 - 2023 ? Will see... <br/>
