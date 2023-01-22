@@ -138,7 +138,7 @@ That was a hard way, but here I am.
 - Get a job in international agency in 2022
 </p>
 
-- 2023 ? Will see...
+- 2023 ? Will see... <br/>
   <img src="./assets/gif/dwight.gif" width="300px">
 
 ---
