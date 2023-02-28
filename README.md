@@ -1,9 +1,5 @@
 <h1>Heey, Alex here 👋</h1>
-<h3> Just a regular Frontend developer. Nothing to see here.</h3>
-<br/>
-<img alt='GIF' src="./assets/gif/nyan-cat.gif" width="300px" align="center">
-
-###### Ok fine...
+<h3> Just a regular Frontend developer.</h3>
 
 ---
 ### My Tech Stack:
